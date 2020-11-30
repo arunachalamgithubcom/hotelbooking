@@ -1,0 +1,25 @@
+.logo
+{
+	 margin-left:40%;
+}
+h1
+{
+	    font-size: 16pt;
+    /* text-align: center; */
+    margin-left: 25%;
+}
+label
+{
+	font-weight:600;
+}
+.btn-primary
+{
+	
+    margin-top: 7px;
+    margin-left: 33%;
+
+}
+.error
+{
+	color:red;
+}
